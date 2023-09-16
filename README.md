@@ -1,6 +1,6 @@
 # GPT (Generative Pre-trained Transformer)
 
-This folder contains an implementation of the GPT (Generative Pre-trained Transformer) model from scratch. The GPT model is a state-of-the-art language generation model based on the Transformer architecture, introduced by Vaswani et al. in the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
+This repository contains an implementation of the GPT (Generative Pre-trained Transformer) model from scratch. The GPT model is a state-of-the-art language generation model based on the Transformer architecture, introduced by Vaswani et al. in the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
 
 ## Overview
 The GPT model is a deep learning-based language model that uses unsupervised pre-training on a large corpus of text data, followed by fine-tuning on specific downstream tasks such as language translation, question answering, and text completion. It leverages the Transformer architecture, which utilizes self-attention mechanisms to capture dependencies between words or tokens in a sentence.
